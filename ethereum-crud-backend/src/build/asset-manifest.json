@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2af42da0.chunk.css",
+    "main.js": "/static/js/main.38c385b7.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.505a44b9.js",
+    "static/css/2.b99653bd.chunk.css": "/static/css/2.b99653bd.chunk.css",
+    "static/js/2.06fd41ea.chunk.js": "/static/js/2.06fd41ea.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.06fd41ea.chunk.js.LICENSE.txt": "/static/js/2.06fd41ea.chunk.js.LICENSE.txt",
+    "static/media/ArialTh.ttf": "/static/media/ArialTh.5ae17c16.ttf",
+    "static/media/Arialn.ttf": "/static/media/Arialn.421ef31e.ttf",
+    "static/media/FFFFORWA.TTF": "/static/media/FFFFORWA.82f7ff73.TTF",
+    "static/media/Quicksand-Medium.ttf": "/static/media/Quicksand-Medium.eb896a79.ttf",
+    "static/media/libfreefonts.txt": "/static/media/libfreefonts.e0480045.txt",
+    "static/media/nft.png": "/static/media/nft.8c96545c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505a44b9.js",
+    "static/css/2.b99653bd.chunk.css",
+    "static/js/2.06fd41ea.chunk.js",
+    "static/css/main.2af42da0.chunk.css",
+    "static/js/main.38c385b7.chunk.js"
+  ]
+}
